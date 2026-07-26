@@ -1,6 +1,6 @@
-nombre	🐛 Informe de errores
+nombre	🐛 
 acerca de	Reportar un error para ayudarnos a mejorar el proyecto.
-título	[ERROR] - Descripción corta del error
+título	 - Descripción corta del error
 etiquetas	bicho
 cesionarios	
 🐛 Informe de errores
